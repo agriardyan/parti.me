@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar target/hire-us-*.jar --server.port=$PORT
+web: java $JAVA_OPTS -jar target/parti-me-*.jar --server.port=$PORT
