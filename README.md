@@ -1,2 +1,2 @@
 # parti.me
-no desc yet
+bot for line
