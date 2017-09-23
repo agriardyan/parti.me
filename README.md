@@ -1,2 +1,2 @@
 # parti.me
-bot for line
+line bot's event handler
