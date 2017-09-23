@@ -1,4 +1,4 @@
-package com.soldev;
+package com.soldev.partime;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

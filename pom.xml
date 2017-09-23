@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>parti-me</name>
-    <description>parti.me - solution for your one time needs</description>
+    <description>parti.me - cari kerja partime, dalam sekejap!</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>

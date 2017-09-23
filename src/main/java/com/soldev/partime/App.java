@@ -1,4 +1,4 @@
-package com.soldev;
+package com.soldev.partime;
 
 import java.io.IOException;
 import java.nio.file.Files;
